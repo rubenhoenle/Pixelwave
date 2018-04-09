@@ -1,0 +1,13 @@
+{
+  "name": "pixelwave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Vaalyn",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "get-pixels": "^3.3.0",
+    "rgb-hex": "^2.1.0",
+    "yargs": "^11.0.0"
+  }
+}
