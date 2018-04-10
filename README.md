@@ -1,6 +1,6 @@
 # Pixelwave: A Pixelflut client
 
-Pixelwave is a node.js based Pixelflut client that makes use of the cluster module to enhance the performance for multicore environments.
+Pixelwave is a node.js based Pixelflut client that makes use of the cluster module to enhance the performance for multicore environments. Supports .png with transparency and .jpeg/jpg images.
 
 # Installation
 
