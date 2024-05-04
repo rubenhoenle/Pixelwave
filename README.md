@@ -1,5 +1,19 @@
 # Pixelwave: A Pixelflut client
 
+## Put the nix flake on it
+```bash
+# enter dev shell
+nix develop
+
+# install packages
+npm ci
+
+# run
+pixelflut
+```
+
+---
+
 Pixelwave is a node.js based Pixelflut client that makes use of the cluster module to enhance the performance for multicore environments. Supports .png with transparency and .jpeg/jpg images.
 
 # Installation

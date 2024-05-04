@@ -4,7 +4,7 @@ const GetPixels = require('get-pixels');
 const RgbHex = require('rgb-hex');
 const Cluster = require('cluster');
 
-let host = '';
+let host = '10.1.21.168';
 let port = 1234;
 let udp = false;
 
