@@ -14,7 +14,7 @@
         nodejs_22
       ];
       shellHook = ''
-        alias pixelflut="node index.js --image='./nixlogo.png' --offsetY=100 --offsetX=300"
+        alias pixelflut="node index.js --image='./nixlogo.png' --offsetY=0 --offsetX=300"
       '';
     }; 
   };
